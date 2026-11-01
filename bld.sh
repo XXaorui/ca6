@@ -1,3 +1,3 @@
 echo $ANDROID_NDK_HOME | tee nhom
 
-echo 3
+echo 4
